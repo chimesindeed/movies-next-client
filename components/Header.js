@@ -7,9 +7,11 @@ import {
   SearchIcon,
   UserIcon,
 } from '@heroicons/react/outline'
+
 import HeaderItem from './HeaderItem'
 
 function Header(){
+
   return (
     <header className=''>
       <div>
